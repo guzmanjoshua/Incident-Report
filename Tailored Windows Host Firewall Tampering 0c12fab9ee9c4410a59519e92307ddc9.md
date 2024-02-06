@@ -35,6 +35,6 @@ Event
 
 - Example:
 
-[Untitled](Tailored%20Windows%20Host%20Firewall%20Tampering%200c12fab9ee9c4410a59519e92307ddc9/Untitled.png)
+![Untitled](https://github.com/guzmanjoshua/Pictures/blob/main/TWHFT_Picture.png)
 
 - Reason for closing in the example:  I am closing this as a false positive because, this alert triggered due to altering the firewall settings in order to perform a vulnerability scan with Qualys to see how much information I could get with Windows Defender on versus off.
