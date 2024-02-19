@@ -21,7 +21,6 @@ AuditLogs
     TargetID = TargetResources[0]["id"]
 ```
 
-**Tactics and Techniques: Defense Evasion**
 
 **Initial Response Actions**
 
