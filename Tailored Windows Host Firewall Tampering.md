@@ -39,4 +39,5 @@ Event
 
 - Reason for closing in the example:  I am closing this as a false positive because, this alert triggered due to altering the firewall settings in order to perform a vulnerability scan with Qualys to see how much information I could get with Windows Defender on versus off.
 
+<a href="https://github.com/guzmanjoshua/Pictures/blob/main/TWHFT_Picture.png">
 ![Untitled](https://github.com/guzmanjoshua/Diagram.drawio/blob/main/Azure%20Web.drawio.xml)
