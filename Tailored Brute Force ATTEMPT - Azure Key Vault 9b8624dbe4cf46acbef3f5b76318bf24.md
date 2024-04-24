@@ -1,4 +1,4 @@
-# Tailored: Brute Force ATTEMPT - Azure Key Vault
+# Brute Force ATTEMPT - Azure Key Vault
 
 **Incident Description**
 
