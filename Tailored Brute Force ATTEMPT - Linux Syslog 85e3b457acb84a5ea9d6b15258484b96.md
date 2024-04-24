@@ -1,4 +1,4 @@
-# Tailored: Brute Force ATTEMPT - Linux Syslog
+# Brute Force ATTEMPT - Linux Syslog
 
 **Incident Description**
 
