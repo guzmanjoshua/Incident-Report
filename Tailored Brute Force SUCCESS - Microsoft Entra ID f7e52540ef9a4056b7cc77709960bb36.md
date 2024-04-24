@@ -1,4 +1,4 @@
-# Tailored: Brute Force SUCCESS - Microsoft Entra ID
+# Brute Force SUCCESS - Microsoft Entra ID
 
 **Incident Description**
 
