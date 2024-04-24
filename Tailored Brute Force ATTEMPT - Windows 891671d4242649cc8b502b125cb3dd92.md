@@ -1,4 +1,4 @@
-# Tailored: Brute Force ATTEMPT - Windows
+# Brute Force ATTEMPT - Windows
 
 **Incident Description**
 
