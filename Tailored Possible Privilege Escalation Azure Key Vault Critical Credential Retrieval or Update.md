@@ -1,4 +1,4 @@
-# Tailored: Possible Privilege Escalation (Azure Key Vault Critical Credential Retrieval or Update)
+# Possible Privilege Escalation (Azure Key Vault Critical Credential Retrieval or Update)
 
 **Incident Description**
 
