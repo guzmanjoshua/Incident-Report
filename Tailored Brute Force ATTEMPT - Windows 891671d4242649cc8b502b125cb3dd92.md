@@ -32,6 +32,6 @@ SecurityEvent
 
 - Example:
 
-![Untitled](Tailored%20Brute%20Force%20ATTEMPT%20-%20Windows%20891671d4242649cc8b502b125cb3dd92/Untitled.png)
+![Untitled](https://github.com/guzmanjoshua/Pictures/blob/main/Brute%20Force%20ATTEMPT%20-%20Windows%20Pic.png)
 
 - Reason for closing in the example: I am closing this as a true positive because this alert was triggered due to unauthorized users with malicious IP addresses trying to logon by brute force.
