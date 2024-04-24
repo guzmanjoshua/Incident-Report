@@ -1,4 +1,4 @@
-# Tailored: Windows Host Firewall Tampering
+# Windows Host Firewall Tampering
 
 **Incident Description**
 
