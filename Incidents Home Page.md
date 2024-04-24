@@ -8,7 +8,7 @@
 
 [**Brute Force ATTEMPT - MS SQL Server**](https://github.com/guzmanjoshua/Incident-Report/blob/main/Tailored%20Brute%20Force%20ATTEMPT%20-%20MS%20SQL%20Server%200573a426a71e401b96cabba651653738.md)
 
-[**Brute Force ATTEMPT - Windows**](https://github.com/guzmanjoshua/Incident-Report/blob/main/Tailored%20Brute%20Force%20ATTEMPT%20-%20Windows%20891671d4242649cc8b502b125cb3dd92.md)
+[**Brute Force ATTEMPT - Windows (WIP)**](https://github.com/guzmanjoshua/Incident-Report/blob/main/Tailored%20Brute%20Force%20ATTEMPT%20-%20Windows%20891671d4242649cc8b502b125cb3dd92.md)
 
 [**Brute Force SUCCESS - Linux Syslog**](https://github.com/guzmanjoshua/Incident-Report/blob/main/Tailored%20Brute%20Force%20SUCCESS%20-%20Linux%20Syslog%20a7058784444c475a8a4c712c634c4c4d.md)
 
