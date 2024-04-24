@@ -1,4 +1,4 @@
-# Tailored: Possible Privilege Escalation (Global Admin Role Assignment)
+# Possible Privilege Escalation (Global Admin Role Assignment)
 
 **Incident Description**
 
