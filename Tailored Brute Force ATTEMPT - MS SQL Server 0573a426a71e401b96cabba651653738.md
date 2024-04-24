@@ -1,4 +1,4 @@
-# Tailored: Brute Force ATTEMPT - MS SQL Server
+# Brute Force ATTEMPT - MS SQL Server
 
 **Incident Description**
 
