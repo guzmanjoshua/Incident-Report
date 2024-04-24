@@ -1,4 +1,4 @@
-# Tailored: Possible Lateral Movement (Excessive Password Resets)
+# Possible Lateral Movement (Excessive Password Resets)
 
 **Incident Description**
 
