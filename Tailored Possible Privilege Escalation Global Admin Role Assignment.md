@@ -35,5 +35,3 @@ AuditLogs
 - Check for any other unauthorized role assignments made by the attacker and revoke them if necessary.
 - Identify the root cause of the incident and take corrective actions to prevent similar incidents from occurring in the future.
 - Restore any data or system configurations that may have been affected by the incident. This may involve resetting the Global Administrator password for the affected account and updating the secret in Key Vault
-
-**Document Findings and Close out Incident**
